@@ -13,24 +13,7 @@ pip3 install apscheduler
 pip3 install pyvirtualdisplay
 ```
 
-## 参数设置
-
-1. 设置每日打卡时间
-
-```python
-#打卡时间 小时、分钟
-c_minute = "00" 
-c_hour = "8"
-```
-
-2. 输入网址、学号、密码
-
-```python
-#网址、学号、密码
-url = 学生战役页面的网址
-username = 学号
-password = 密码
-```
+注意：服务器需安装chrome和对应驱动
 
 ## 运行
 
